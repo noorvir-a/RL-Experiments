@@ -1,6 +1,6 @@
 ## Reinforcement Learning Experiments
 
-This file contains some of my early experiments with TensorFlow and Reinforcement Learning (which means that the code structuring might be questionable sometimes etc.)
+This repository contains some of my early experiments with TensorFlow and Reinforcement Learning (which means that the code structuring might be questionable sometimes).
 
 All test are run for 300 steps. No real reason for this number. My observation is that if the agent can balance the pole for 300 steps, it can often do it for longer too.
 
